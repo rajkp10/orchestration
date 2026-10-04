@@ -1,0 +1,9 @@
+{
+  "request_id": "req-orders-patch-verify-fails-001",
+  "type": "db.postgres.patch",
+  "resource_id": "orders",
+  "params": {
+    "version": "16.4",
+    "simulate_verify_failure": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "request_id": "req-orders-patch-001",
+  "type": "db.postgres.patch",
+  "resource_id": "orders",
+  "params": {
+    "version": "16.4"
+  }
+}

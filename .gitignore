@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Terraform: state can hold the generated database password, so it never enters git.
+# The provider lock file (.terraform.lock.hcl) is deliberately not ignored.
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate.d/
+*.tfplan
+crash.log
+
+# Workflow results written by the report activity
+results/
+
+# Assignment brief
+docs/ASSIGNMENT.md

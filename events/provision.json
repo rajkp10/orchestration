@@ -1,0 +1,9 @@
+{
+  "request_id": "req-orders-provision-001",
+  "type": "db.postgres.provision",
+  "resource_id": "orders",
+  "params": {
+    "version": "16.3",
+    "env": "dev"
+  }
+}

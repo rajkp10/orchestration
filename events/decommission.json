@@ -1,0 +1,5 @@
+{
+  "request_id": "req-orders-decommission-001",
+  "type": "db.postgres.decommission",
+  "resource_id": "orders"
+}
