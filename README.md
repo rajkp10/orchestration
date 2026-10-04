@@ -6,7 +6,7 @@ Terraform uses the Docker provider, so "a database" here is a real PostgreSQL co
 
 The design, the trade-offs and the answers to the assignment's design questions are in [docs/DESIGN.md](docs/DESIGN.md). This file only covers how to run the system.
 
-**Demo video:** [provision → patch → decommission](docs/demo/demonstration-provision-patch-decommission.mp4)
+**Demo video:** [provision → patch → decommission](https://drive.google.com/file/d/1TROsWJ6UD2IFwFiRPzQa9cwdpsLBV1BA/view?usp=sharing)
 
 ## Contents
 
