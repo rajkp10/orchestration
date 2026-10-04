@@ -135,7 +135,7 @@ Activate the virtual environment here too. Every command in the next sections is
 
 ## 4. Demo: provision → patch → decommission
 
-The steps below are shown being run in the [demo video](docs/demo/demonstration-provision-patch-decommission.mp4).
+The steps below are shown being run in the [demo video](https://drive.google.com/file/d/1TROsWJ6UD2IFwFiRPzQa9cwdpsLBV1BA/view?usp=sharing).
 
 Each step sends one event file from `events/`. The trigger starts a workflow, waits for it, prints the final result as JSON and exits with code `0` on success.
 
